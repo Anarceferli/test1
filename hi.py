@@ -6,5 +6,9 @@ def sum(a,b):
     return a+b
 print(main())
 print("hello world")
-print("helllll")
-a= int(input())
+print("mouse")
+
+def mercedes():
+    return "The Car Is mercedes"
+print("helllo")
+print("merged")
