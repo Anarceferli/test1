@@ -6,4 +6,5 @@ def sum(a,b):
     return a+b
 print(main())
 print("hello world")
-print("mouse")
+print("helllll")
+a= int(input())
