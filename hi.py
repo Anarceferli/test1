@@ -11,3 +11,4 @@ print("mouse")
 def mercedes():
     return "The Car Is mercedes"
 print("helllo")
+print("merged")
