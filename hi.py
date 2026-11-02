@@ -8,5 +8,6 @@ print(main())
 print("hello world")
 print("mouse")
 
-def Bmw():
-    return "The Car Is Bmw"
+def mercedes():
+    return "The Car Is mercedes"
+print("helllo")
